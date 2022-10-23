@@ -1,0 +1,15 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "Node Js Practice repo",
+  "main": "myApp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node myApp.js"
+  },
+  "author": "Chintalapati Venkata Rama Rahul",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
